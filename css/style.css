@@ -133,7 +133,7 @@ body.pastel .hero {
       rgba(255, 209, 220, 0.4),
       rgba(189, 224, 254, 0.6)
     ),
-    url(photo/photo1.jpg) center/cover;
+    url(photo1.jpg) center/cover;
 }
 
 body.pastel .hero-content h1 {
@@ -235,12 +235,12 @@ body.pastel tr:nth-child(even) {
 }
 
 body.pastel footer {
+  border-top: 3px solid #ffb7b2;
   background: linear-gradient(
       rgba(255, 209, 220, 0.4),
       rgba(189, 224, 254, 0.6)
     ),
-    url(photo/photo2.jpg) center/cover;
-  border-top: 3px solid #ffb7b2;
+    url(photo2.jpg) center/cover;
 }
 
 body.pastel .footer-section {
